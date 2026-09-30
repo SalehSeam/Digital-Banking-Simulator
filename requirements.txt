@@ -1,0 +1,12 @@
+# Digital Banking Simulator
+#
+# This project uses ONLY Python's built-in standard library:
+#   - tkinter   (GUI)
+#   - sqlite3   (database)
+#   - hashlib   (PIN hashing)
+#   - re        (email validation)
+#   - random    (account number generation)
+#
+# No external packages need to be installed with pip.
+# This file is included so the project follows standard
+# Python project structure and is easy to extend later.

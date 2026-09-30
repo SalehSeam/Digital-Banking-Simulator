@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# SQLite database (auto-generated on first run, with demo data seeded)
+database/*.db
+database/*.sqlite3
+
+# OS / Editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Logs
+*.log
